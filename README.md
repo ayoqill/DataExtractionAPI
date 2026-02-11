@@ -42,6 +42,7 @@ Server replies with JSON:
 So REST API = URL + HTTP method + JSON response.
 
 Most modern APIs (Spotify, OpenAI, Twitter, etc.) use REST.
+--------------------------------------------------------------
 
 2️⃣ JSON Structure
 
@@ -73,6 +74,7 @@ key-value pair
 
 Understanding JSON is VERY important in data engineering.
 
+---
 3️⃣ HTTP Methods
 
 These tell the server what you want to do.
