@@ -105,6 +105,7 @@ Delete data
 
 For beginners, focus on GET first.
 
+---
 4️⃣ Status Codes
 
 When you send request, server replies with a code.
@@ -143,6 +144,7 @@ Extract fields from JSON
 
 That’s it.
 
+---
 If you master this, you can:
 
 Pull crypto prices
